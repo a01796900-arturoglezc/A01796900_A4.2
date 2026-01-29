@@ -1,0 +1,7 @@
+Count: 3
+Mean: 20.0
+Median: 20.0
+Mode: 10.0
+Variance: 66.66666666666667
+Standard Deviation: 8.16496580927726
+Execution Time (seconds): 0.0003597736358642578
